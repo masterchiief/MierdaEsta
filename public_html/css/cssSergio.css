@@ -13,3 +13,12 @@ and open the template in the editor.
     font-family: Arial;
     font-size: x-large;
 }
+#Cabecera{
+    width: auto;
+    border-radius: 25px;
+    border-style: double;
+}
+#TituloWeb{
+    color: gold;
+    font-family: Arial;
+}
